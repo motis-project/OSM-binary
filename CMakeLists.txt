@@ -2,9 +2,9 @@ cmake_minimum_required(VERSION 3.7)
 
 project(osmpbf VERSION 1.5.0)
 
-include(GNUInstallDirs)
+include(cmake/pkg.cmake)
 
-find_package(Protobuf REQUIRED)
+include(GNUInstallDirs)
 
 add_subdirectory(osmpbf)
 

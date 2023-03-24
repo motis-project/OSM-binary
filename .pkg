@@ -1,0 +1,8 @@
+[protobuf]
+  url=git@github.com:motis-project/protobuf.git
+  branch=master
+  commit=e4d1f574ea9793308da9a942b4d5c1d4628aaed6
+[zlib]
+  url=git@github.com:motis-project/zlib.git
+  branch=master
+  commit=8e7c86d3a0e49101b9a67d74c4a07345dcb0e485
